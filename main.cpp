@@ -10,7 +10,7 @@ void chamaFUncao(){
 }
 
 void minhafuncao(){
-	conut<<"aprendendo git"<<;
+	conut<<"aprendendo git";
 }
 int main(){
 	cout<<"Meu deus isso até que é legal";
