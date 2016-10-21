@@ -8,6 +8,10 @@ void contRecursivo(int i){
 void chamaFUncao(){
 	cout<<"Como assim"<<endl;
 }
+
+void minhafuncao(){
+	conut<<"aprendendo git"<<;
+}
 int main(){
 	cout<<"Meu deus isso até que é legal";
 	contRecursivo(10);
