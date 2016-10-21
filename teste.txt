@@ -6,3 +6,11 @@ git commit -m "Incluir o arquivo main.cpp"
 git remote add origin
 git@github.com:phooeniix/minicurso-git.git
 git push origin master
+git branch
+git branch nome_branch // -b já cria e muda
+git branch -b nome_branch
+git chekout nome_branch //trocar de branch
+git branch -D nome_branch // deletar branch
+touch soma.cpp // cria arquivo
+git commit -m "MENSAGEM"
+
