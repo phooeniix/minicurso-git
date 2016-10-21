@@ -16,5 +16,5 @@ int main(){
 	cout<<"Meu deus isso até que é legal";
 	contRecursivo(10);
 	chamaFUncao();	
-	return 0;
+	return 1;
 }
