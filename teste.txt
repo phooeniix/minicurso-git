@@ -1,4 +1,6 @@
-git add nome_arquivo
+
+
+aahjfçaljfkalgit add nome_arquivo
 git status
 git commit -m "Incluir o arquivo main.cpp"
 git config --global user.email "ahcarvalho01@gmail.com"
