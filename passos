@@ -1,0 +1,14 @@
+1 git clone
+Trás para o computador o master de um projeto no github
+
+2 git checkout -b nome
+Cria sua branch para poder trabalhar
+
+3 git add 'nome' ou '.'
+Adiciona os arquivos alterados
+
+4 git commit -m "mensagem"
+Cria um checkpoint
+
+5 git push origin nome
+joa para na branch nome no projeto no github o que está no computador
