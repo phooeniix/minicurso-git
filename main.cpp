@@ -5,8 +5,12 @@ void contRecursivo(int i){
 	cout<<i<<" ";
 	contRecursivo(i-1);
 }
+void chamaFUncao(){
+	cout<<"Como assim"<<endl;
+}
 int main(){
 	cout<<"Meu deus isso até que é legal";
 	contRecursivo(10);
+	chamaFUncao();	
 	return 0;
 }
